@@ -22,7 +22,7 @@
 •	N. V. Priezjev and M. A. Makeev, “Evolution of the pore size distribution in sheared binary glasses”, Physical Review E 96, 053004 (2017). https://doi.org/10.1103/PhysRevE.96.053004
 
 •	APS-2018_Poster01.pdf
-•	“Distributions of pore sizes and atomic densities in binary LJ glasses revealed by molecular dynamics simulations”, APS March Meeting; Session L60: Poster Session II (Los Angeles, CA; March 7, 2018).
+•	“Distributions of pore sizes and atomic densities in binary LJ glasses revealed by molecular dynamics simulations”, APS March Meeting; Session L60: Poster Session II (Los Angeles, CA; March 7, 2018). https://www.youtube.com/watch?v=FC9vwaO2ggk
 
 
 
